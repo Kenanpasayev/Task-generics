@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{824AE4D6-C0D4-4430-BC34-179FD6FA3D0C}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp15\\consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824AE4D6-C0D4-4430-BC34-179FD6FA3D0C}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824AE4D6-C0D4-4430-BC34-179FD6FA3D0C}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp15\\consoleapp15\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824AE4D6-C0D4-4430-BC34-179FD6FA3D0C}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824AE4D6-C0D4-4430-BC34-179FD6FA3D0C}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp15\\consoleapp15\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824AE4D6-C0D4-4430-BC34-179FD6FA3D0C}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824AE4D6-C0D4-4430-BC34-179FD6FA3D0C}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp15\\consoleapp15\\exceptions\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824AE4D6-C0D4-4430-BC34-179FD6FA3D0C}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\exceptions\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotAvailableException.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\exceptions\\NotAvailableException.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\exceptions\\NotAvailableException.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\exceptions\\NotAvailableException.cs",
+              "RelativeToolTip": "ConsoleApp15\\exceptions\\NotAvailableException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:51:31.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Room.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Room.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Room.cs",
+              "RelativeToolTip": "ConsoleApp15\\Room.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:50:30.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Hotel.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Hotel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Hotel.cs",
+              "RelativeToolTip": "ConsoleApp15\\Hotel.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:50:18.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Program.cs",
+              "RelativeToolTip": "ConsoleApp15\\Program.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAQwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:49:41.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
