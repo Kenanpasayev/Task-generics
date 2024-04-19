@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp15
+﻿using ConsoleApp15.exceptions;
+
+namespace ConsoleApp15
 {
     internal class Program
     {
@@ -77,27 +79,35 @@
                                                 Console.WriteLine("Room yaradildi");
                                                 break;
                                             case "2":
-                                                Console.WriteLine("Hotel seçin");
-                                                string showroom = Console.ReadLine();
-
-                                                if (selectedHotel == null)
+                                                Console.WriteLine("Hoteldeki butun otaqlar");
+                                                foreach(var a  in selectedHotel.GetAllRooms())
                                                 {
-                                                    Console.WriteLine(" Hotel seçilməlidir.");
-                                                    return;
+                                                    Console.WriteLine(a);
                                                 }
 
-                                                List<Room> rooms = selectedHotel.GetAllRooms();
-                                                Console.WriteLine($"{selectedHotel.Name} hotelindeki otaqlar:");
-                                                foreach (var room in rooms)
+                                                break;
+                                            case "3":
+                                                Console.WriteLine("Rezervasiya etmek ucun id secin");
+                                                int roomId = Convert.ToInt32(Console.ReadLine());
+                                                Console.WriteLine("Musteri sayi");
+                                                int customercount = Convert.ToInt32(Console.ReadLine());
+                                                try 
                                                 {
-                                                    Console.WriteLine(room.Name);
+                                                    selectedHotel.MakeReservation(roomId);
+                                                    Console.WriteLine("rezervasiya olundu");
+                                                }
+                                                catch(NotAvailableException ex) 
+                                                {
+                                                    Console.WriteLine(ex.Message);
+                                                }
+                                                catch(Exception ex)
+                                                {
+                                                    Console.WriteLine(ex.Message);
                                                 }
                                                 break;
-                                               case "3":   
-                                            break;
-                                               case "4":
-                                            break;
-                                                case "0":
+                                            case "4":
+                                                break;
+                                            case "0":
                                                 exit = true;
                                             break;
                                         }

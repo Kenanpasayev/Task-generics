@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\ConsoleApp15.csproj": {}
+    "C:\\Users\\ca.r215.07\\Desktop\\Task-generics\\ConsoleApp15\\ConsoleApp15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\ConsoleApp15.csproj": {
+    "C:\\Users\\ca.r215.07\\Desktop\\Task-generics\\ConsoleApp15\\ConsoleApp15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\ConsoleApp15.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r215.07\\Desktop\\Task-generics\\ConsoleApp15\\ConsoleApp15.csproj",
         "projectName": "ConsoleApp15",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\ConsoleApp15.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp15\\ConsoleApp15\\obj\\",
+        "projectPath": "C:\\Users\\ca.r215.07\\Desktop\\Task-generics\\ConsoleApp15\\ConsoleApp15.csproj",
+        "packagesPath": "C:\\Users\\ca.r215.07\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ca.r215.07\\Desktop\\Task-generics\\ConsoleApp15\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ca.r215.07\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
